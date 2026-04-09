@@ -113,22 +113,28 @@ Solution: Migrated all data-dependent variables to Zustand selectors, enabling r
 (Tip: Add your local screenshots to a /public/screenshots folder and link them here)
 
 # Dashboard View:
+<img width="1888" height="961" alt="Screenshot 2026-04-09 161854" src="https://github.com/user-attachments/assets/74aaffe3-4d86-4d1f-acf2-61b37aaed688" />
+
 <img width="1882" height="955" alt="Screenshot 2026-04-09 161913" src="https://github.com/user-attachments/assets/bde21033-8929-4483-bfc7-1cf5e00c2627" />
 
 # Add Transaction Modal: 
+<img width="1843" height="944" alt="Screenshot 2026-04-09 161747" src="https://github.com/user-attachments/assets/99c6eb13-248b-4fa2-92b4-eea919d3f5ed" />
+
 <img width="1886" height="935" alt="Screenshot 2026-04-09 161807" src="https://github.com/user-attachments/assets/f324f53b-e0e8-4fda-8657-91bb5d6ff453" />
 
 
 # Insights:
 <img width="1872" height="951" alt="Screenshot 2026-04-09 161719" src="https://github.com/user-attachments/assets/6b49b447-3ac3-4a71-921a-b44fccfba86c" />
+# Admin/User Toggle:
+
 # Future Enhancements
-- Charts (Recharts / Chart.js)
-- Filters & Search
-- Pagination
-- Authentication (JWT)
-- Backend Integration (Node.js + MongoDB)
-- PWA Support
- # Author
--Ganesh Naik
--Frontend Developer (React, UI/UX)
--Passionate about scalable web apps & clean design
+ - Charts (Recharts / Chart.js)
+ - Filters & Search
+ - Pagination
+ - Authentication (JWT)
+ - Backend Integration (Node.js + MongoDB)
+ - PWA Support
+# Author
+ -Ganesh Naik
+ -Frontend Developer (React, UI/UX)
+ -Passionate about scalable web apps & clean design
