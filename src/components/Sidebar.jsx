@@ -12,7 +12,7 @@ export default function Sidebar() {
   return (
     <aside className="fixed left-0 top-0 hidden h-full w-64 border-r bg-white p-6 lg:block z-20">
       <div className="mb-10 px-4 flex">
-        <img className='w-30 h-20' src="public/animatedlogo.webp" alt="" />
+        <img className='w-30 h-20' src="public/animatedweblog.png" alt="" />
         <h1 className="text-xl font-black text-indigo-600 tracking-tight">Financial DashBoard</h1>
       </div>
       
